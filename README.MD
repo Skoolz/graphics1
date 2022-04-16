@@ -21,7 +21,7 @@
 ```
 Функция отрисовки 
 ```c++
-  static void RenderSceneCB()
+  static void func()
  {
     // очистка окна
     glClear(GL_COLOR_BUFFER_BIT);
